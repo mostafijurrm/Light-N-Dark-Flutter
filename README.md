@@ -2,8 +2,9 @@
 
 A new Flutter application.
 
-![Screenshot_1](/Screenshot_1617791219.png) ![Screenshot_2](![image](https://user-images.githubusercontent.com/43503207/113854018-31cd8680-97c0-11eb-98af-f9a136666b61.png)
-)
+![Screenshot_1617791219](https://user-images.githubusercontent.com/43503207/113854279-87099800-97c0-11eb-9f62-198c4bf46d72.png)![Screenshot_1617791232](https://user-images.githubusercontent.com/43503207/113854290-8a048880-97c0-11eb-9e5a-6ab014f0d504.png)
+
+
 
 ## Getting Started
 
