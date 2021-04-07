@@ -1,9 +1,9 @@
 # Light and Dark Mode in Flutter
 
 A new Flutter application.
-![Screenshot_1](/Screenshot_1617791219.png) ![Screenshot_2](/Screenshot_1617791232.png)
 
-![Alt text](/Screenshot_1617791219.png?raw=true "Optional Title")
+![Screenshot_1](/Screenshot_1617791219.png) ![Screenshot_2](![image](https://user-images.githubusercontent.com/43503207/113854018-31cd8680-97c0-11eb-98af-f9a136666b61.png)
+)
 
 ## Getting Started
 
